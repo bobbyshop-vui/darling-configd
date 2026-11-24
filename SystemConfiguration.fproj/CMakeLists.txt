@@ -26,6 +26,7 @@ mig(helper/helper.defs)
 set(sc_sources
 	../darling/src/SystemConfiguration.fproj/stubs.c
 	../darling/src/SystemConfiguration.fproj/stubs.cpp
+	../darling/src/SystemConfiguration.fproj/XcodeLazySymbols.c
 	#helper/SCHelper_client.c
 	#BondConfiguration.c
 	#BridgeConfiguration.c
